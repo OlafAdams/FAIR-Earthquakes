@@ -4,3 +4,6 @@ untitled.*
 project.zip
 catalog-v001.xml
 template.ttl
+*.py
+earthquake-shapes.ttl
+fairified-earthquakes.ttl
