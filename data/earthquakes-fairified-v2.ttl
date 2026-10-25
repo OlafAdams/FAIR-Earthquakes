@@ -1,5 +1,5 @@
-@prefix ont: <https://w3id.org/FAIR-course-UT/2025-2026/group14/ont#> .
-@prefix data: <https://w3id.org/FAIR-course-UT/2025-2026/group14/data#> .
+@prefix ont: <https://w3id.org/FAIR-course-UT/2026/group14/ont#> .
+@prefix data: <https://w3id.org/FAIR-course-UT/2026/group14/data#> .
 @prefix sosa: <http://www.w3.org/ns/sosa/> .
 @prefix schema: <https://schema.org/> .
 @prefix wgs84: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
@@ -14,6 +14,7 @@
 @prefix quantitykind: <http://qudt.org/vocab/quantitykind/> .
 @prefix wdt: <http://www.wikidata.org/prop/direct/> .
 @prefix time: <http://www.w3.org/2006/time#> .
+
 
 data:Mode-A a ont:Mode ;
     rdfs:label "Mode A" .
